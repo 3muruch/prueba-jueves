@@ -3,6 +3,6 @@
  * Imprime el maximo de los numeros
  */
 
-int main() {
-
+int main(void name(/* arguments */) {
+  /* code */
 }

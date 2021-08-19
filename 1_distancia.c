@@ -3,6 +3,6 @@
  * e imprima la distancia euclídea entre el origen y el punto (x,y)
  */
 
-int main() {
-
-}
+int main(void name(2,8) {
+  /* code */
+ 

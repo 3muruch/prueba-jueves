@@ -9,6 +9,15 @@
  * 3 6 9 12 15 18
  */
 
-int main() {
+int main(void name(a,b){
 
-}
+int: A>B
+
+printf("error: a tiene que ser menor o igual a b%s\n", );
+
+
+int: A<=B
+
+return 0:
+
+{
